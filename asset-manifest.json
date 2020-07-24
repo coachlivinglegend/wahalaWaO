@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/wahalaWaO/static/css/main.5f361e03.chunk.css",
+    "main.js": "/wahalaWaO/static/js/main.f2b41198.chunk.js",
+    "main.js.map": "/wahalaWaO/static/js/main.f2b41198.chunk.js.map",
+    "runtime-main.js": "/wahalaWaO/static/js/runtime-main.f8b584c0.js",
+    "runtime-main.js.map": "/wahalaWaO/static/js/runtime-main.f8b584c0.js.map",
+    "static/js/2.53d0a898.chunk.js": "/wahalaWaO/static/js/2.53d0a898.chunk.js",
+    "static/js/2.53d0a898.chunk.js.map": "/wahalaWaO/static/js/2.53d0a898.chunk.js.map",
+    "index.html": "/wahalaWaO/index.html",
+    "precache-manifest.7a63db42e5abc80171167382622dfdee.js": "/wahalaWaO/precache-manifest.7a63db42e5abc80171167382622dfdee.js",
+    "service-worker.js": "/wahalaWaO/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/wahalaWaO/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.53d0a898.chunk.js.LICENSE.txt": "/wahalaWaO/static/js/2.53d0a898.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/wahalaWaO/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8b584c0.js",
+    "static/js/2.53d0a898.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.f2b41198.chunk.js"
+  ]
+}
